@@ -1,7 +1,6 @@
 import { Component } from 'react';
 import 'react-toastify/dist/ReactToastify.css';
 import { ToastContainer } from 'react-toastify';
-// import 'react-loader-spinner/dist/loader/css/react-spinner-loader.css';
 import './App.css';
 import Searchbar from 'components/Searchbar/Searchbar';
 import ImageGallery from 'components/ImageGallery/ImageGallery';
